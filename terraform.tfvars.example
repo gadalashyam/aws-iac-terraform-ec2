@@ -1,0 +1,9 @@
+ami_id = "example-ami-id"
+instance_type = "example-instance-type"
+key_name = "example-key-name"
+security_group_ids = "example-sg-id"
+
+tags = {
+  Name        = "example-name"
+  Owner       = "example-name"
+}
